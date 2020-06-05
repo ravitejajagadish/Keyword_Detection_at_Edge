@@ -1,7 +1,7 @@
 # Keyword Detection at Edge
 <br>
-A deep learning model using depthwise separable convolution network for edge devices for keyword speech recognition as part of the 6 Semester Mini project. The model is deployed to edge using Tflite runtime library.
-
+A deep learning model using depthwise separable convolution network for edge devices for keyword speech recognition as part of the 6 Semester Mini project. <br>
+The model is deployed to edge using Tflite runtime library.
 <br>
 Dataset : https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 <br>
