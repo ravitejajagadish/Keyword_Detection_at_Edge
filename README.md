@@ -15,8 +15,9 @@ The model built is saved in the folder - model
 
 ## Edge Devices
 To run the keyword detection model in edge devices: 
-
+<br>
 Python == 3.7
+<br>
 Architecture : ARM32
 
 ```
