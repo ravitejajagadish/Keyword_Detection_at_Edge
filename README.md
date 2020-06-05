@@ -7,8 +7,9 @@ Dataset : https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 ## Desktop Environment 
 To build and test in Desktop Enviroment : 
-``` pip install requirements_desktop.txt
-    jupyter-notebook Keyword_Detection_at_Edge.ipynb
+``` 
+   pip install requirements_desktop.txt
+   jupyter-notebook Keyword_Detection_at_Edge.ipynb
 ```
 The model built is saved in the folder - model
 
